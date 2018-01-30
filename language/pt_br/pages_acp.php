@@ -54,11 +54,11 @@ $lang = array_merge($lang, array(
 	'ACP_PAGES_ORDER'					=> 'Ordem',
 	'ACP_PAGES_LINK'					=> 'Link',
 	'ACP_PAGES_VIEW'					=> 'Ver página',
-	'ACP_PAGES_STATUS'					=> 'Estatuto',
+	'ACP_PAGES_STATUS'					=> 'Status',
 	'ACP_PAGES_PUBLISHED'				=> 'Publicada',
 	'ACP_PAGES_PUBLISHED_NO_GUEST'		=> 'Publicada (apenas membros)',
 	'ACP_PAGES_PRIVATE'					=> 'Privada',
-	'ACP_PAGES_EMPTY'					=> 'Não há páginas',
+	'ACP_PAGES_EMPTY'					=> 'Nenhuma página encontrada',
 
 	// Purge icons
 	'ACP_PAGES_PURGE_ICONS'				=> 'Limpar cache',
