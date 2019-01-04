@@ -2,7 +2,7 @@
 /**
 *
 * Pages extension for the phpBB Forum Software package.
-* Brazilian Portuguese translation by null2 and update by eunaumtenhoid (c) 2017 [ver 2.0.2] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese translation by null2 and update by eunaumtenhoid (c) 2017 [ver 2.0.3] (https://github.com/phpBBTraducoes)
 * @copyright (c) 2014 phpBB Limited <https://www.phpbb.com>
 * @license GNU General Public License, version 2 (GPL-2.0)
 *

@@ -2,7 +2,7 @@
 /**
 *
 * Pages extension for the phpBB Forum Software package.
-* Brazilian Portuguese translation by null2 and update by eunaumtenhoid (c) 2017 [ver 2.0.2] (https://github.com/phpBBTraducoes)
+* Brazilian Portuguese translation by null2 and update by eunaumtenhoid (c) 2017 [ver 2.0.3] (https://github.com/phpBBTraducoes)
 * @copyright (c) 2014 phpBB Limited <https://www.phpbb.com>
 * @license GNU General Public License, version 2 (GPL-2.0)
 *
@@ -40,7 +40,7 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge($lang, array(
 	// Manage page
 	'ACP_PAGES_MANAGE'					=> 'Gerenciar Páginas',
-	'ACP_PAGES_MANAGE_EXPLAIN'			=> 'A partir desta página, pode adicionar, editar e excluir páginas personalizadas.',
+	'ACP_PAGES_MANAGE_EXPLAIN'			=> 'Nesta página, você pode adicionar, editar e excluir páginas estáticas personalizadas.',
 	'ACP_PAGES_CREATE_PAGE'				=> 'Criar páginas',
 	'ACP_PAGES_CREATE_PAGE_EXPLAIN'		=> 'Usando o formulário abaixo, pode criar uma nova página personalizada para o seu Fórum.',
 	'ACP_PAGES_EDIT_PAGE'				=> 'Editar página',
@@ -73,7 +73,7 @@ $lang = array_merge($lang, array(
 	'ACP_PAGES_EDIT_SUCCESS'			=> 'Página atualizada com sucesso.',
 
 	// Add/edit page
-	'ACP_PAGES_SETTINGS'				=> 'Configurar página',
+	'ACP_PAGES_SETTINGS'				=> 'Configurações da página',
 	'ACP_PAGES_OPTIONS'					=> 'Opções da página',
 	'ACP_PAGES_FORM_TITLE'				=> 'Título da página',
 	'ACP_PAGES_FORM_TITLE_EXPLAIN'		=> 'Este campo é obrigatório.',
